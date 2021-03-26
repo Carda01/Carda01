@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carda01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to write in python
+- 🌱 I’m currently learning how to sharpen my coding skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
